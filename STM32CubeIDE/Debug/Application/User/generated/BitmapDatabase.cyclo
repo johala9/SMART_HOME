@@ -1,0 +1,2 @@
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/SMART_HOME/TouchGFX/generated/images/src/BitmapDatabase.cpp:19:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	1
+C:/Users/arunj/STM32CubeIDE/workspace_1.14.0/SMART_HOME/TouchGFX/generated/images/src/BitmapDatabase.cpp:24:10:uint16_t BitmapDatabase::getInstanceSize()	1
